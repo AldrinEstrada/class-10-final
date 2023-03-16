@@ -1,0 +1,117 @@
+{
+    "page.home.head.title": "Conception et développement numérique, Diplôme, Temps plein — BCIT",
+    "page.home.head.meta.description": "BCIT Digital Design and Development — Français",
+    "utiliy.learninghub": "CENTRE D'APPRENTISSAGE",
+    "utility.mybcit": "MYBCIT",
+    "utility.students": "ÉTUDIANTS",
+    "utility.staff": "PERSONNELLE",
+    "utiliy.events": "ÉVÉNEMENTS",
+
+    "header.courses": "Programme & Cours",
+    "header.admission": "Admission",
+    "header.services": "Services aux étudiants",
+    "header.research": "Recherche",
+    "header.about": "À propos du BCIT",
+
+    "breadcrumb.study": "ÉTUDE",
+    "breadcrumb.business": "AFFAIRES & MÉDIAS",
+    "breadcrumb.d3": "CONCEPTION ET DÉVELOPPEMENT NUMÉRIQUE",
+
+    "coursebanner.title": "Conception et développement numérique",
+    "coursebanner.diploma": "Diplôme",
+    "coursebanner.fulltime": "À temps plein",
+    "coursebanner.department": "École de commerce + médias",
+    "submenu.header": "À PROPOS DE CE PROGRAMME",
+    "submenu.overview": "Aperçu",
+    "submenu.entrance": "Exigences d'entrée",
+    "submenu.placement": "Placement avancé",
+    "submenu.cost": "Coût et fournitures",
+    "submenu.courses": "Cours",
+    "submenu.details": "Détails du programme",
+    "submenu.graduation": "Diplômes et emplois",
+    "submenu.contact": "Contactez-nous",
+    "submenu.subscribe": "S'abonner",
+
+    "infosessions.header": "Séances d'information",
+    "infosessions.info": "Assister à une prochaine séance d'information sur ce programme:",
+
+    "infosessions.april": "3 avril à 17h30",
+    "infosessions.may": "8 mai à 17h30",
+    "infosessions.june": "19 juin à 17h30",
+    "infosessions.july": "10 juillet à 17h30",
+
+    "infosessions.explore": "Découvrez toutes les prochaines séances d'information du BCIT.",
+
+    "overview.header": "Aperçu du programme",
+    "overview.credential": "Identifiant: ",
+    "overview.credentialinfo": "Diplôme",
+
+    "overview.format": "Format: ",
+    "overview.formatinfo": "À temps plein",
+    
+    "overview.length": "Longueur: ",
+    "overview.lengthinfo": "2 années",
+
+    "overview.start": "Date de début: ",
+    "overview.startinfo": "Septembre",
+
+    "overview.campus": "Campus: ",
+    "overview.campusinfo": "Burnaby",
+
+    "overview.domtuition": "Frais de scolarité nationaux: ",
+    "overview.domtuitioninfo": "$18,000*",
+
+    "overview.intertuition": "Frais de scolarité internationaux: ",
+    "overview.intertuitioninfo": "$37,600* *prix estimé",
+
+    "overview.courses": "Tous les programmes Entreprises + Médias",
+
+    "course_content.entrance": "EXIGENCES D'ENTREE",
+    "course_content.application": "Traitement des candidatures",
+    "course_content.applicationinfo": "Ouvert aux candidatures à partir du 1er octobre (ou le jour ouvrable suivant).",
+
+    "course_content.entrancereq": "Exigences d'entrée",
+    "course_content.entrancereqinfo": "Les candidats doivent satisfaire à toutes les conditions d'admission et seront acceptés sur une base de première qualification tant qu'il reste de la place.",
+
+    "entrancereq_list.eng": "Anglais: ",
+    "entrancereq_list.options": "deux ans d'études en anglais dans un pays anglophone avec l'un des éléments suivants:",
+    "entrancereq_list.eng12": "Études anglaises 12 (67 %) ou",
+    "entrancereq_list.engfirst": "Premiers Peuples anglais 12 (67 %) ou",
+    "entrancereq_list.otherhigh": "Cours d'études secondaires équivalent acceptable ou",
+    "entrancereq_list.otherpost": "3.0 crédits d'anglais postsecondaire, sciences humaines ou sciences sociales (67 %) d'un établissement reconnu",
+
+    "course_content.whatif": "Que se passe-t-il si je ne réponds pas à ces exigences en anglais ?",
+    "course_content.readother": "En savoir plus sur la façon de répondre aux exigences d'admission du BCIT",
+
+    "course_content.recommend": "Recommandé pour réussir",
+    "course.recommendsuccess": "Maîtrise de Windows et/ou de Mac OS et connaissance des concepts informatiques de base et de la logique.",
+
+    "course_content.international": "Candidats internationaux",
+
+    "course_content.internationalinfo1": "Ce programme est disponible pour les candidats internationaux. Un permis d'études valide est requis avant de commencer le programme.",
+    "course_content.internationalinfo2": "Les étudiants inscrits à ce programme doivent compléter la composante de travail obligatoire pour être admissibles à l'obtention du diplôme. Un permis de travail coopératif est requis avant de commencer le volet travaux.",
+
+    "course_content.applyheader": "Appliquer au programme",
+
+    "course_content.applynotif": "Remarque : L'admission de septembre 2023 est fermée pour les nouvelles candidatures de candidats internationaux. Les candidats nationaux peuvent continuer à postuler. Trouvez des programmes acceptant des étudiants internationaux.",
+    "course_content.applysubmit": "Pour soumettre votre candidature:",
+
+    "apply.submit.proof": "Joignez la preuve que vous remplissez toutes les conditions d'admission.",
+    "apply.submit.transcript": "Convertissez toutes les transcriptions et les pièces justificatives en fichiers PDF.",
+    "apply.submit.pay": "Ayez une carte de crédit prête à payer les frais de dossier.",
+
+    "apply.button": "APPLIQUER MAINTENANT",
+    "apply.learn": "En savoir plus sur la façon de postuler",
+
+    "course_content.intakes": "Apports programmés",
+    "intakes": "Septembre de chaque année.",
+
+    "course_content.priorlearning": "Évaluation et reconnaissance des acquis (ERA)",
+    "course_content.priorlearninginfo": "Les étudiants peuvent demander d'avoir une expérience de travail antérieure ou des cours déjà suivis évalués pour l'exemption de cours. Communiquez avec le ministère pour plus de détails sur la reconnaissance des acquis (ERA) .",
+
+    "course_content.mycomm": "myCommunication",
+
+    "course_content.mycomminfo": "Dans les deux jours ouvrables suivant la soumission de votre demande dûment remplie, le BCIT enverra un message à vos adresses électroniques personnelles et myBCIT. Toute correspondance concernant votre demande sera affichée sur votre compte myCommunication en ligne à my.bcit.ca. Nous vous enverrons un e-mail lorsqu'un nouveau message sera publié. Il est important de surveiller ces courriels ou de consulter régulièrement votre compte en ligne.",
+    "course_content.mycomminfo2": "Vous pouvez vous attendre à recevoir une communication concernant l'état de votre demande dans les quatre semaines."
+
+}

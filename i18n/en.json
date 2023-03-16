@@ -1,0 +1,121 @@
+{
+    "page.home.head.title": "Digital Design and Development, Diploma, Full-Time — BCIT",
+    "page.home.head.meta.description": "BCIT Digital Design and Development — English",
+    "utiliy.learninghub": "LEARNING HUB",
+    "utility.mybcit": "MYBCIT",
+    "utility.students": "STUDENTS",
+    "utility.staff": "STAFF",
+    "utiliy.events": "EVENTS",
+
+    "header.courses": "Program & Courses",
+    "header.admission": "Admission",
+    "header.services": "Student Services",
+    "header.research": "Research",
+    "header.about": "About BCIT",
+
+    "breadcrumb.study": "STUDY",
+    "breadcrumb.business": "BUSINESS & MEDIA",
+    "breadcrumb.d3": "DIGITAL DESIGN AND DEVELOPMENT",
+
+    "coursebanner.title": "Digital Design and Development",
+    "coursebanner.diploma": "Diploma",
+    "coursebanner.fulltime": "Full-time",
+    "coursebanner.department": "School of Business + Media",
+    "submenu.header": "ABOUT THIS PROGRAM",
+    "submenu.overview": "Overview",
+    "submenu.entrance": "Entrance Requirements",
+    "submenu.placement": "Advanced Placement",
+    "submenu.cost": "Cost & Supplies",
+    "submenu.courses": "Courses",
+    "submenu.details": "Program Details",
+    "submenu.graduation": "Graduating & Jobs",
+    "submenu.contact": "Contact Us",
+    "submenu.subscribe": "Subscribe",
+
+    "infosessions.header": "Info sessions",
+    "infosessions.info": "Attend an upcoming information session for this program:",
+
+    "infosessions.april": "April 3rd at 5:30pm",
+    "infosessions.may": "May 8th at 5:30pm",
+    "infosessions.june": "June 19th at 5:30pm",
+    "infosessions.july": "July 10th at 5:30pm",
+
+    "infosessions.explore": "Explore all upcoming BCIT info sessions.",
+
+    "overview.header": "Program Overview",
+    "overview.credential": "Credential: ",
+    "overview.credentialinfo": "Diploma",
+
+    "overview.format": "Format: ",
+    "overview.formatinfo": "Full-time",
+    
+    "overview.length": "Length: ",
+    "overview.lengthinfo": "2 years",
+
+    "overview.start": "Start Date: ",
+    "overview.startinfo": "September",
+
+    "overview.campus": "Campus: ",
+    "overview.campusinfo": "Burnaby",
+
+    "overview.domtuition": "Domestic Tuition: ",
+    "overview.domtuitioninfo": "$18,000*",
+
+    "overview.intertuition": "International Tuition: ",
+    "overview.intertuitioninfo": "$37,600* *cost estimate",
+
+    "overview.courses": "All Business + Media Programs",
+
+    "course_content.entrance": "Entrance Requirements",
+    "course_content.application": "Application processing",
+    "course_content.applicationinfo": "Open to applications beginning October 1st (or next business day).",
+
+    "course_content.entrancereq": "Entrance requirements",
+    "course_content.entrancereqinfo": "Applicants must meet all entrance requirements and will be accepted on a first qualified basis as long as space remains.",
+
+    "entrancereq_list.eng": "English: ",
+    "entrancereq_list.options": "two years of education in English in an English-speaking country with one of the following:",
+    "entrancereq_list.eng12": "English Studies 12 (67%) or",
+    "entrancereq_list.engfirst": "English First Peoples 12 (67%) or",
+    "entrancereq_list.otherhigh": "Acceptable equivalent high school course or",
+    "entrancereq_list.otherpost": "3.0 credits of post-secondary English, humanities or social sciences (67%) from a recognized institution",
+
+    "course_content.whatif": "What if I don't meet these English requirements?",
+    "course_content.readother": "Read more about how to meet BCIT's entrance requirements",
+
+    "course_content.recommend": "Recommended for success",
+    "course.recommendsuccess": "Proficiency using Windows and/or Mac OS, and Knowledge of basic computer concepts and logic.",
+
+    "course_content.international": "International applicants",
+
+    "course_content.internationalinfo1": "This program is available to international applicants. A valid study permit is required prior to starting the program.",
+    "course_content.internationalinfo2": "Students enrolled in this program must complete the mandatory work component to qualify for graduation. A co-op work permit is required prior to starting the work component.",
+
+    "course_content.applyheader": "Apply to program",
+
+    "course_content.applynotif": "Note:The September 2023 intake is closed for new applications from international applicants. Domestic applicants may continue to apply. Find programs accepting international students.",
+    "course_content.applysubmit": "To submit your application:",
+
+    "apply.submit.proof": "Include proof of meeting all entrance requirements.",
+    "apply.submit.transcript": "Convert all transcripts and supporting documents to PDF files.",
+    "apply.submit.pay": "Have a credit card ready to pay the application fee.",
+
+    "apply.button": "APPLY NOW",
+    "apply.learn": "Learn more about how to apply",
+
+    "course_content.intakes": "Scheduled Intakes",
+    "intakes": "September each year.",
+
+    "course_content.priorlearning": "Prior Learning Assessment & Recognition (PLAR)",
+    "course_content.priorlearninginfo": "Students may request to have prior work experience or previously taken courses assessed for course exemption. Contact the department for further details on Prior Learning Assessment Recognition (PLAR) .",
+
+    "course_content.mycomm": "myCommunication",
+
+    "course_content.mycomminfo": "Within two business days of submitting your completed application, BCIT will send a message to your personal and myBCIT e-mail addresses. All correspondence regarding your application will be posted to your online myCommunication account at my.bcit.ca. We'll send you an e-mail when a new message is posted. It's important to watch for these e-mails or regularly check your account online.",
+    "course_content.mycomminfo2": "You can expect to receive communication concerning the status of your application within four weeks."
+
+
+
+
+
+}
